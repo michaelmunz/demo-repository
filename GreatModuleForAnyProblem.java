@@ -4,4 +4,8 @@ public class GreatModuleForAnyProblem{
 	public static void main(String[] args){
 		System.out.println("Dies ist die Test-Ausgabe");
 	}
+	public static void sortieren(List<String> texte){
+	//TODO: implement
+	}
 }
+
