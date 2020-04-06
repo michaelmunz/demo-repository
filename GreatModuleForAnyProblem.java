@@ -3,3 +3,7 @@
 public static void main(String[] args){
 	//TODO: implement
 }
+
+public static void sortieren(List<String> texte){
+	//TODO: implement
+}
